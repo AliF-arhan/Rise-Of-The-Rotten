@@ -26,3 +26,6 @@ git clone https://github.com/yourusername/apocalypse-shooter.git
 cd apocalypse-shooter
 pip install -r requirements.txt
 python main.py
+
+Important Note:
+When downloading the assets and the python file copy of all of the asset files and put it together inside a folder with the python file to run the program 
