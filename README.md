@@ -1,2 +1,28 @@
-# Rise-Of-The-Rotten
-We built a retro-style Python/Pygame zombie shooter for a hackathon. Set in a pixelated apocalypse, you fight waves of smart zombies while hunting 3 antivirus ingredients across 15 levels—every win is survival, every loss makes you part of the horde.
+# Rise-Of-The-Rotten 🎮
+
+A single-player shooting adventure set in a gritty apocalyptic future — with retro-style pixelated graphics.  
+Built from scratch in Python using Pygame during the [Hackathon Name] in just 48 hours.
+
+---
+
+## 🚀 Features
+- Fast-paced shooting gameplay
+- Apocalyptic setting with retro pixel art
+- Score tracking & challenges
+- Built under hackathon time constraints
+
+---
+
+## 🛠 Tech Stack
+- Python 3.x
+- Pygame library
+- Custom pixel art assets
+
+---
+
+## 📦 Installation
+```bash
+git clone https://github.com/yourusername/apocalypse-shooter.git
+cd apocalypse-shooter
+pip install -r requirements.txt
+python main.py
