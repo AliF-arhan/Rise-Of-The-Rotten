@@ -1,0 +1,3 @@
+1. Arrow Keys to move
+2. z = To Shoot
+3. LCTRL and RCTRL = To Flip
